@@ -4,4 +4,4 @@
 
 
 Live Preview: 
-https://github.com/john-smilga/react-projects/tree/master/02-tours/setup
+https://60a927f3bc4286702bbd1438--csb-rltpm.netlify.app/
